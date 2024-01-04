@@ -13,7 +13,7 @@ To understand how to use your ship follow along as I describe each part.
 
 
 Time to play: Max 5 Mins (300 s):
-&nbsp;&nbsp;&nbsp;&nbsp;-30s Tutorial begins (takes however long it needs to take)
+&nbsp;&nbsp;&nbsp;&nbsp;-30s Tutorial begins (takes however long it needs to take)  
 0 s - After the Tutorial ends, the game officially starts (Labeled “checkpt, on the timeline)
 0 s -  5 Light Years away from space station
 15s - First gravity failure
